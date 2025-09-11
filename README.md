@@ -3,6 +3,8 @@
   
 姓名：陳星<br/>  
 系級：科技系112級<br/>  
-- 課程筆記區 [HW1](https://github.com/SHINGSkywallker/-)
+- 課程筆記區
 - 作業連結區
+
+[HW1](https://github.com/SHINGSkywallker/-)
 - 專題連結區
