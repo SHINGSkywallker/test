@@ -6,5 +6,5 @@
 - 課程筆記區
 - 作業連結區
 
-  [HW1](https://github.com/SHINGSkywallker/-)、[HW3](HW3.ipynb)、[HW5](HW5.ipynb) [HW6](HW6.ipynb)
+  [HW1](https://github.com/SHINGSkywallker/-)、[HW3](HW3.ipynb)、[HW5](HW5.ipynb)、[HW6](HW6.ipynb)
 - 專題連結區
