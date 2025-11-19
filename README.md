@@ -8,4 +8,5 @@
 
   [HW1](https://github.com/SHINGSkywallker/-)、[HW3](HW3.ipynb)、[HW5](HW5.ipynb)、[HW6](HW6.ipynb)
 - 專題連結區
+[專題專區](https://github.com/SHINGSkywallker/project)
 [影片簡介](https://youtu.be/8ZMSy9djvb0)
